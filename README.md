@@ -8,8 +8,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   🎓 Ibmec Barra  ·  5º Período  ·  Ciência de Dados & IA   ║
-║              CR 9.4  ·  Rio de Janeiro, Brasil               ║
+    🎓 Ibmec Barra  ·  5º Período  ·  Ciência de Dados & IA    
+               CR 9.4  ·  Rio de Janeiro, Brasil               
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -96,14 +96,14 @@
 <img width="70%" src="https://streak-stats.demolab.com?user=Enzoguedesc&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 </div>
 
-<div align="center">
+<div align="center"  width=150%>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoguedesc&layout=compact&langs_count=7&theme=dark)
 
 </div>
 
  <br/>
-<div align="center" height=100>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoguedesc/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoguedesc@gmail.com)
