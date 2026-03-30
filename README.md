@@ -80,8 +80,9 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [FluxRio](https://github.com/Enzoguedesc/FluxRio) | Dashboard de monitoramento GPS de ônibus em tempo real no Rio de Janeiro — mapas interativos, ranking de velocidade, detecção de veículos parados e deploy em produção | `Python` `Streamlit` `Folium` `Pandas` |  
-| [Imersão Dados](https://github.com/Enzoguedesc/Imersao_Dados_Python_Alura) | Desenvolvi um projeto voltado para análise, manipulação e visualização de dados, culminando na criação de um Dashboard interativo com Streamlit. | `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Plotly Express` `Streamlit` |
+| [Imersão Dados](https://github.com/Enzoguedesc/Imersao_Dados_Python_Alura) | Desenvolvi um projeto voltado para análise, manipulação e visualização de dados, culminando na criação de um Dashboard interativo com Streamlit. | `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Streamlit` |
 | [API Escola](https://github.com/Enzoguedesc/Imersao-DevOps-ALURA) | Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino. | `Python` `Docker` `Google Cloud` |
+| [Anomalias Banco Master](https://github.com/Enzoguedesc/Anomalias_Banco_Master) | .... | `Python` `Streamlit` `Scikit-Learn` `Pandas` `Numpy` |
 
 <div align="center">
 🚧 Mais projetos chegando em breve...
