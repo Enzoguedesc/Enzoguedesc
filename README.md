@@ -80,6 +80,7 @@
 | [API Escola](https://github.com/Enzoguedesc/Imersao-DevOps-ALURA) | Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino. | `Python` `Docker` `Google Cloud` |
 | [Anomalias Banco Master](https://github.com/Enzoguedesc/Anomalias_Banco_Master) | Investigação forense quantitativa que aplica CatBoost Supervisionado sobre dados públicos da CVM para detectar anomalias em FIDCs ligados ao Grupo Master, entregue como um web app em Streamlit com estética de jornal investigativo. | `Python` `Streamlit` `Scikit-Learn` `CatBoost ` `Pandas` `Numpy` |
 | [API Catálogo de Produtos](https://github.com/Enzoguedesc/Big-Data-Cloud) | A API foi construída com Django REST Framework e hospedada na AWS Elastic Beanstalk. Ela permite gerenciar produtos, categorias e estatísticas. | `Python` `AWS Elastic Beanstalk` `SQLite ` `Django REST` |
+| [Chunking Semântico / LLM]([https://github.com/Enzoguedesc/Big-Data-Cloud](https://github.com/Enzoguedesc/Chunking_Dados_Estruturados_ACHE)) | Pipeline de preparação de dados para sistema RAG aplicado ao catálogo da ACHÉ Laboratórios, , automatizando o processamento de solicitações de orçamento. A solução utiliza chunking semântico com Abordagem Híbrida | `Python` `Gem (Gemini)` |
 
 <div align="center">
 🚧 Mais projetos chegando em breve...
