@@ -8,8 +8,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-    🎓 Ibmec Barra  ·  5º Período  ·  Ciência de Dados & IA    
-               CR 9.4  ·  Rio de Janeiro, Brasil               
+    🎓 Ibmec Barra  ·  6º Período  ·  Ciência de Dados & IA    
+               CR 9.46  ·  Rio de Janeiro, Brasil               
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -21,7 +21,7 @@
 
 ## 🚀 Sobre Mim
 
-- 🎓 Cursando **Ciência de Dados & IA** na **Ibmec Barra** · 5º período · CR **9,4**
+- 🎓 Cursando **Ciência de Dados & IA** na **Ibmec Barra** · 6º período · CR **9,46**
 - 🔭 Atualmente desenvolvendo projetos de **análise de dados, dashboards e IA aplicada**
 - 🌱 Aprofundando conhecimentos em **Machine Learning, Engenharia de Dados e LLMs**
 - 🛠️ Construo do dado bruto ao deploy — análise, modelagem, visualização e produto
